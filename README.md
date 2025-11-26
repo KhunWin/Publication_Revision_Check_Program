@@ -12,3 +12,9 @@ Home file Header:
 Call Number, Document Number, Title, Revision Description, Revision Num, Revision Date
 
 Both files needs to follow certain header format. 
+
+# Version one
+It is capable to check the following aircraft type.
+1. Finnair
+2. Aerologic 
+More aircraft type are being added soon.
