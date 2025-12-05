@@ -16,6 +16,7 @@ Both files needs to follow certain header format.
 # Version one
 It is capable to check the following aircraft type.
 1. Finnair
-2. Aerologic 
+2. Aerologic
+3. DHL  
 
-More aircraft type are being added soon.
+More aircraft type are being added soon.# checking_revision_num_and_date
